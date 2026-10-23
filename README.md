@@ -515,6 +515,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 
 ### Benchmarks
 - [Agentbench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
+- [Agentest](https://github.com/srpadmanabhuni/agentest) - Open-core offline runner for the Agentic AI Test Checklist 110 (terminal state, allowlists, authz/HITL, privacy oracles + 15 sample agents)
 - [Agentlab](https://github.com/ServiceNow/AgentLab) - AgentLab - An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and re…
 - [Agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI…
 - [Appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 Repository for "AppWorld - A Controllable World of Apps and People for Benchmarking Interactive Coding Agent", ACL'24 Best Resource Paper.
@@ -568,6 +569,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Weblinx](https://github.com/McGill-NLP/weblinx) - WebLINX is a benchmark for building web navigation agents with conversational capabilities
 
 ### Datasets 
+- [Agentic-Ai-Test-Checklist-110](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) - 110-row assurance test-design catalogue for agentic AI (T1–T7 packs, CC BY 4.0) with companion runner agentest
 - [Aart-Ai-Safety-Dataset](https://github.com/xxxx-dddd/aart-ai-safety-dataset) - AART - AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications
 - [Abstractive-Summarizer-On-Cnn_Dailymail-Dataset.](https://github.com/pkounoudis/Abstractive-Summarizer-on-cnn_dailymail-dataset.) - A small T5 LLM finetuned for text summarization.
 - [Airline-Review-Llm-Chatbot](https://github.com/rohan-deswal/airline-review-llm-chatbot) - Using a Large Language Model (LLM) to develop a chatbot that gives insights about this dataset - https://www.kaggle.com/datasets/juhibhoja…
@@ -1289,6 +1291,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
 
 ### Testing
+- [Agentest](https://github.com/srpadmanabhuni/agentest) - Deterministic assurance tests for tool-using agents (CLI, mock gateway, CI); catalogue on Hugging Face
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. [github](https://github.com/EvoAgentX/EvoAgentX)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval) - an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG). [github](https://github.com/vectara/open-rag-eval)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. [github](https://github.com/saharmor/voice-lab)
